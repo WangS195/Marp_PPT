@@ -20,7 +20,7 @@ section {
 
 section::before {
   content: "";
-  background-image: url('./logo');
+  background-image: url('./logo.png');
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
