@@ -16,6 +16,7 @@ section {
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
+  position: relative; /* 确保 ::before 可以相对定位 */
 }
 
 section::before {
