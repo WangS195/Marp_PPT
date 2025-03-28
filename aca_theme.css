@@ -17,21 +17,6 @@ section {
   padding-left: 40px;
   padding-right: 40px;
 }
-/* 添加校徽样式 */
-section::before {
-  content: '';
-  position: absolute;
-  top: 20px;
-  right: 40px;
-  width: 120px;         /* 根据实际校徽尺寸调整 */
-  height: 60px;         /* 根据实际校徽尺寸调整 */
-  background-image: url('https://github.com/WangS195/Marp_PPT/blob/main/logo.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: right top;
-  z-index: 1;
-}
-
 
 /* https://github.com/marp-team/marpit/issues/271 */
 section::after {
