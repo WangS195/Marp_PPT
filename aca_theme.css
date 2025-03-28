@@ -25,7 +25,7 @@ section::before {
   right: 40px;
   width: 120px;         /* 根据实际校徽尺寸调整 */
   height: 60px;         /* 根据实际校徽尺寸调整 */
-  background-image: url('university-logo.png');
+  background-image: url('https://github.com/WangS195/Marp_PPT/blob/main/logo.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right top;
