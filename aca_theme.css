@@ -22,7 +22,7 @@ section {
 }
 
 section::before {
-  content: url('logo.png'); 
+  content: url('https://github.com/WangS195/Marp_PPT/blob/main/logo.png'); 
   position: absolute;
   right: 20px;
   top: 20px;
