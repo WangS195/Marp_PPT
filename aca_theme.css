@@ -75,10 +75,10 @@ header {
 }
 
 blockquote {
-  max-width: 90%;
+  max-width: 100%;
   border-top: 0.1em dashed #555;
-  font-size: 60%;
-  position: absolute;
+  font-size: 100%;
+  position: relative;
   bottom: 20px;
 }
 blockquote::before {
